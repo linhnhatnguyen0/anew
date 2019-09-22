@@ -1,8 +1,8 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	Project Name
-VERSION:	Versoin Number
+PROJECT:  Project Name
+VERSION:  Versoin Number
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
@@ -199,11 +199,11 @@ select:focus {
 }
 
 a.text-dark:hover {
-  color: #41228e !important;
+  color: #fff !important;
 }
 
 a:hover {
-  color: #41228e;
+  color: #fff;
 }
 
 .slick-slide {
@@ -251,7 +251,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background: #000 !important;
 }
 
 .bg-gray {
@@ -396,7 +396,7 @@ a:hover {
 }
 
 .form-control:focus {
-  border-color: #41228e;
+  border-color: #000;
   outline: 0;
   box-shadow: none !important;
 }
@@ -426,7 +426,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #41228e;
+  background-color: #000;
   padding: 15px 100px;
 }
 
