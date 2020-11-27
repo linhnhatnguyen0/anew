@@ -1,32 +1,10 @@
-/*!------------------------------------------------------------------
-[MAIN STYLESHEET]
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
 
-PROJECT:	Project Name
-VERSION:	Versoin Number
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-[TABLE OF CONTENTS]
--------------------------------------------------------------------*/
-
-@import 'variables';
-
-@import 'mixins';
-
-@import 'typography';
-
-@import 'buttons';
-
-@import 'common';
-
-@import 'templates/navigation';
-
-@import 'templates/hero-area';
-
-@import 'templates/homepage';
-
-@import 'templates/blog';
-
-@import 'templates/about';
-
-@import 'templates/portfolio';
+/* Base */
+@import "site-base";
+/* Navbar */
+@import "site-navbar";
+/* Blocks */
+@import "site-blocks";
