@@ -23,7 +23,7 @@ body {
   font-size: 15px;
   color: #4c4c4c;
 }
-header video {
+video {
   position: absolute;
   top: 50%;
   left: 50%;
