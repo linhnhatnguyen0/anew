@@ -995,3 +995,7 @@ figure figcaption {
   margin-top: .5rem;
   font-style: italic;
   font-size: .8rem; }
+
+.bg-primary{
+  background-color: #9ec1dd!important;
+}
